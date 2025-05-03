@@ -1,4 +1,5 @@
 package com.taller2.proyectotaller;
+import com.taller2.proyectotaller.Modelo.*;
 
 public class Proyectotaller {
 
