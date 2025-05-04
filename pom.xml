@@ -10,4 +10,13 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.taller2.proyectotaller.Proyectotaller</exec.mainClass>
     </properties>
+    
+    <dependencies>
+        <dependency>
+        <groupId>org.mariadb.jdbc</groupId>
+        <artifactId>mariadb-java-client</artifactId>
+        <version>3.3.2</version> <!-- o la última disponible -->
+        </dependency>
+
+    </dependencies>
 </project>
